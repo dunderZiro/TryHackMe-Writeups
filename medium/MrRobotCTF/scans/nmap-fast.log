@@ -1,0 +1,1 @@
+# Nmap 7.92 scan initiated Mon Oct 11 17:19:57 2021 as: nmap -p- --min-rate 10000 -v -oN scans/nmap-fast.log 10.10.180.168

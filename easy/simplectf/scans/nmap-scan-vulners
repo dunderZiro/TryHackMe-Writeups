@@ -1,0 +1,8 @@
+# Nmap 7.92 scan initiated Sun Oct  3 23:26:51 2021 as: nmap -p 2222 --script=vulners -oN scans/nmap-scan-vulners 10.10.10.65
+Nmap scan report for 10.10.10.65
+Host is up (0.042s latency).
+
+PORT     STATE SERVICE
+2222/tcp open  EtherNetIP-1
+
+# Nmap done at Sun Oct  3 23:26:51 2021 -- 1 IP address (1 host up) scanned in 0.35 seconds

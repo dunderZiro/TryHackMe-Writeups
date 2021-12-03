@@ -1,0 +1,7 @@
+/.git/HEAD            (Status: 200) [Size: 23]
+/.git                 (Status: 301) [Size: 194] [--> http://10.10.78.140/.git/]
+/.git/config          (Status: 200) [Size: 110]
+/.git/index           (Status: 200) [Size: 645]
+/.git/logs/           (Status: 200) [Size: 390]
+/css                  (Status: 301) [Size: 194] [--> http://10.10.78.140/css/]
+/index.html           (Status: 200) [Size: 6890]

@@ -1,0 +1,20 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-09-29 16:52 BST
+Initiating Ping Scan at 16:52
+Scanning 10.10.128.210 [2 ports]
+Completed Ping Scan at 16:52, 0.04s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 16:52
+Completed Parallel DNS resolution of 1 host. at 16:52, 0.04s elapsed
+Initiating Connect Scan at 16:52
+Scanning 10.10.128.210 [65535 ports]
+Discovered open port 22/tcp on 10.10.128.210
+Discovered open port 80/tcp on 10.10.128.210
+Completed Connect Scan at 16:53, 22.29s elapsed (65535 total ports)
+Nmap scan report for 10.10.128.210
+Host is up (0.14s latency).
+Not shown: 65407 filtered ports, 126 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 22.42 seconds

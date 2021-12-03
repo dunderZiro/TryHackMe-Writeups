@@ -1,0 +1,11 @@
+# Nmap 7.92 scan initiated Mon Oct  4 23:40:21 2021 as: nmap --script=vulners -oN scans/nmap-scan-vulners 10.10.111.174
+Nmap scan report for 10.10.111.174
+Host is up (0.053s latency).
+Not shown: 996 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+53/tcp   open  domain
+8009/tcp open  ajp13
+8080/tcp open  http-proxy
+
+# Nmap done at Mon Oct  4 23:40:24 2021 -- 1 IP address (1 host up) scanned in 2.65 seconds
