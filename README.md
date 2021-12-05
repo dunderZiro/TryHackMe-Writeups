@@ -21,5 +21,6 @@ Writeups that will be public on TryHackMe
 - [Mr Robot CTF](./medium/MrRobotCTF/)
 - [Relevant](./medium/relevant/)
 - [Nax](./medium/nax/)
+- [Tokyo Ghoul](./medium/Tokyo-Ghoul/)
 
 ### Hard
