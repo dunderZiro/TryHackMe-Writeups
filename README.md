@@ -22,5 +22,6 @@ Writeups that will be public on TryHackMe
 - [Relevant](./medium/relevant/)
 - [Nax](./medium/nax/)
 - [Tokyo Ghoul](./medium/Tokyo-Ghoul/)
+- [Napping](./medium/napping)
 
 ### Hard
