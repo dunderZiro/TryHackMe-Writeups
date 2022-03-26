@@ -1,0 +1,66 @@
+#!/usr/bin/env bash
+
+cd paragraph1.1 && diff text1.txt text2.txt > /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph1.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph1.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph2.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph2.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph2.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph2.4 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph2.5 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph3.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph3.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph3.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph3.4 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph4.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph4.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph4.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph4.4 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph5.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph5.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph6.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph6.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph6.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph7.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph7.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph8.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph8.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph8.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph8.4 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph9.1 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph9.2 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph9.3 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph9.4 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
+cd paragraph9.5 && diff text1.txt text2.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && diff text1.txt text3.txt >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt && pwd >> /home/user/Documents/git/github.com/dunderZiro/TryHackMe-Writeups/_incomplete/aratus/found-smb/output.txt
+cd ..
